@@ -1,7 +1,7 @@
 name: continuous-deployment
 run-name: Deploy do site para o servidor de produção
 on:
-  pull request:
+  pull_request:
     branches:
       - master
 jobs:
