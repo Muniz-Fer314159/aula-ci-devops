@@ -24,4 +24,5 @@ jobs:
             -Dsonar.projectName=site-faculdade
             -Dsonar.projectVersion=1.0.0
             -Dsonar.sources=.
+            
            
