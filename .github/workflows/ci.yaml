@@ -3,7 +3,7 @@ run-name: Pipeline de integração contínua e analise de código
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   ci:
